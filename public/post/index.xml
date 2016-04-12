@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Backlog Management</title>
+    <link>http://backlog.management/post/</link>
+    <description>Recent content in Posts on Backlog Management</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Apr 2016 23:14:39 -0400</lastBuildDate>
+    <atom:link href="http://backlog.management/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Emily is Away</title>
+      <link>http://backlog.management/post/emily-is-away/</link>
+      <pubDate>Mon, 11 Apr 2016 23:14:39 -0400</pubDate>
+      
+      <guid>http://backlog.management/post/emily-is-away/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://backlog.management/images/emilyisaway.png&#34; alt=&#34;Emily is Away&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I figured I&amp;rsquo;d start out with an easy recommendation- Emily is Away is free, and it takes about a half hour to beat. The entire game is a series of conversations with a friend, Emily, using a messaging client that may look very familiar to you. This game struck a chord since I was right around the same age of the characters, but even if you didn&amp;rsquo;t graduate high school in the early 2000s, there&amp;rsquo;s a lot to relate to on all sides in this story.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
