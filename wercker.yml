@@ -1,4 +1,4 @@
-box: nahody/nodejs@5.9.0
+box: nahody/nodejs
 build:
   steps:
     - arjen/hugo-build:
