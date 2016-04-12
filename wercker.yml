@@ -1,4 +1,4 @@
-box: nodesource/trusty
+box: nahody/nodejs@5.9.0
 build:
   steps:
     - arjen/hugo-build:
