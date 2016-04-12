@@ -4,4 +4,14 @@ build:
     - arjen/hugo-build:
         version: "0.15"
         theme: base16
-        flags: --buildDrafts=true
+
+deploy:
+  steps:
+    - script:
+      name: install surge
+      code: npm install -g surge
+    - script:
+      name: upload site to surge
+      code: |
+        ls -l public/
+        surge ./public/ backlog.management
