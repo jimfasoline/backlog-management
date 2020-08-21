@@ -2,7 +2,7 @@ box: node
 build:
   steps:
     - arjen/hugo-build:
-        version: "0.40"
+        version: "0.69.2"
         flags: --theme=base16
 
 deploy:
