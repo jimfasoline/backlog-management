@@ -13,5 +13,5 @@ deploy:
     - script:
       name: upload site to surge
       code: |
-        env
-        surge ./public/ backlog.management --token $SURGE_TOKEN
+        ls -l public/
+        surge ./public/ backlog.management
